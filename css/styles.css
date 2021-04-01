@@ -57,6 +57,11 @@ p {
   bottom: 300px;
 }
 
+.available{
+  margin: auto;
+  width: 50%;
+}
+
 .bottom-container {
   padding-top: 50px;
   padding-bottom: 20px;
